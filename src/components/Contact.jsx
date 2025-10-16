@@ -12,7 +12,7 @@ const Contact = () => {
         <span>sashaavanovmusic@gmail.com</span>
 				<ul className='flex justify-between py-5'>
           <li>
-            <a href="#" target="_blank" rel="noopener noreferrer" className=''><FontAwesomeIcon icon={ faInstagram } size='3x'/></a>
+            <a href="https://www.instagram.com/sashaavanov/" target="_blank" rel="noopener noreferrer" className=''><FontAwesomeIcon icon={ faInstagram } size='3x'/></a>
           </li>
           <li>
             <a href="https://www.youtube.com/@sashaavanovmusic262" target="_blank" rel="noopener noreferrer" className=''><FontAwesomeIcon icon={ faYoutube } size='3x'/></a>            
